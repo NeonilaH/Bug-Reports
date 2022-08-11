@@ -1,4 +1,4 @@
-## Bug report	
+## Bug report	1
 
 Category | Value
 --- | --- 
