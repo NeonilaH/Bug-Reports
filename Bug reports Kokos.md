@@ -1,7 +1,8 @@
 ## Bug report	
 
- Summary	|'By name' sorting button doesn't work in 'Мобільні телефони' catalog
---- | ---
+Category | Value
+--- | --- 
+Summary	|'By name' sorting button doesn't work in 'Мобільні телефони' catalog
 Project	 | kokos.com.ua
 Issue type | Bug
 ID |	bug_1
