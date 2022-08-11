@@ -34,3 +34,21 @@ AR |A blank field appears below the pictures of added items.
 ER |A comparison table appears below the pictures of added items.
 Attachments |	https://bit.ly/3b4ULOf
 
+
+## Bug report 3
+
+Category |  Value
+--- | --- 	
+Summary |	The search results show unavailable and available items in random order
+Project |	kokos.com.ua
+Issue type |	Bug
+ID |	bug_3
+Severity |	Medium
+Priority |	P2
+Environment |	Windows 11 Home 21H2 2200.795, Microsoft Edge Version 103.0.1264.62"
+Description	 |After entering items that are in-stock on the website, both available and unavailable ones are displayed in random order. 
+Precondition  |	The user is on the main page https://kokos.com.ua/ua/
+STR |	1. Enter 'Apple iPhone' into the Search field. 2. Check if available items are shown first."
+AR |	Available and unavailable items are shown in random order.
+ER |	In-stock items are shown first, while unavailable ones are displayed subsequently.
+Attachments |	https://bit.ly/3PvjtWV
