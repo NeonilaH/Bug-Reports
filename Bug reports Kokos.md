@@ -14,5 +14,3 @@ STR |	1. Click on 'Мобільні телефони' tab in the main menu. 2. C
 AR	 | Mobile phones are sorted in random order.
 ER	 | Mobile phones are sorted by name.
 Attachments	 | https://bit.ly/3BhJO6s
-
-![Attachment](https://bit.ly/3BhJO6s)
