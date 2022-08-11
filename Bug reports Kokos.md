@@ -15,4 +15,4 @@ AR	 | Mobile phones are sorted in random order.
 ER	 | Mobile phones are sorted by name.
 Attachments	 | https://bit.ly/3BhJO6s
 
-![](https://bit.ly/3BhJO6s)
+![Attachment](https://bit.ly/3BhJO6s)
