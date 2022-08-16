@@ -70,3 +70,20 @@ AR | 'Немає доступних фільтрів' message is displayed in Fi
 ER |There are filter ranges to choose from.
 Attachments |	https://bit.ly/3PZyfVS
 
+## Bug report 5
+
+Category |  Value
+--- | ---
+Summary |	'Быстрая доставка' button doesn't work on the main page
+Project |	kokos.com.ua
+Issue type |	Bug
+ID |	bug_5
+Severity |	Medium
+Priority |	P3
+Environment |	Apple iPhone 11 iOS 15.6, Google Chrome 103.0.5060.63"
+Description | 'Быстрая доставка' button doesn't open a new page with the delivery information.
+Precondition |	The user is on the main page https://kokos.com.ua/
+STR	 | 1. Scroll down to 'Быстрая доставка' button. 2. Check if clicking the button directs you to a new page with the delivery information.
+AR	 |Clicking 'Быстрая доставка' doesn't lead you to the delivery information page.
+ER	 |After clicking the button a new page with the delivery information is opened.
+Attachments	 |https://bit.ly/3viNi58
