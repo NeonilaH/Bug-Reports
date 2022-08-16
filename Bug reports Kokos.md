@@ -52,3 +52,22 @@ STR |	1. Enter 'Apple iPhone' into the Search field. 2. Check if available items
 AR |	Available and unavailable items are shown in random order.
 ER |	In-stock items are shown first, while unavailable ones are displayed subsequently.
 Attachments |	https://bit.ly/3PvjtWV
+
+## Bug report 4
+
+Category |  Value
+--- | ---
+Summary |	Missing filter types in 'Filter' window
+Project |	kokos.com.ua
+Issue type |	Bug
+ID |	bug_4
+Severity |	Medium
+Priority |	P2
+Environment |	Apple iPhone 11 iOS 15.6, Google Chrome 103.0.5060.63"
+Description | There are no filter ranges in the window that pops up after clicking 'Фільтр' button in Apple catalogue.
+Precondition |	The user is on the main page https://kokos.com.ua/ua/
+STR	 | 1. In 'Популярні категорії' click Apple Store. 2. Click 'Фільтр' button. 3. Check if filter ranges are available.
+AR | 'Немає доступних фільтрів' message is displayed in Filter window.
+ER |There are filter ranges to choose from.
+Attachments |	https://bit.ly/3PZyfVS
+
