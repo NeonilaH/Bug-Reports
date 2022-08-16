@@ -16,8 +16,6 @@ AR	 | Mobile phones are sorted in random order.
 ER	 | Mobile phones are sorted by name.
 Attachments	 | https://bit.ly/3BhJO6s
 
-***
-
 ## Bug report 2
 
 Category |  Value
@@ -36,8 +34,6 @@ AR |A blank field appears below the pictures of added items.
 ER |A comparison table appears below the pictures of added items.
 Attachments |	https://bit.ly/3b4ULOf
 
-***
-
 ## Bug report 3
 
 Category |  Value
@@ -55,8 +51,6 @@ STR |	1. Enter 'Apple iPhone' into the Search field. 2. Check if available items
 AR |	Available and unavailable items are shown in random order.
 ER |	In-stock items are shown first, while unavailable ones are displayed subsequently.
 Attachments |	https://bit.ly/3PvjtWV
-
-***
 
 ## Bug report 4
 
