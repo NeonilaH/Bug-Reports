@@ -74,7 +74,7 @@ Attachments |	https://bit.ly/3PZyfVS
 
 Category |  Value
 --- | ---
-Summary |	'Быстрая доставка' button doesn't work on the main page
+Summary |	'Быстрая доставка' button doesn't open a new page with the delivery information
 Project |	kokos.com.ua
 Issue type |	Bug
 ID |	bug_5
