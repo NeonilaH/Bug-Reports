@@ -85,5 +85,5 @@ Description | 'Быстрая доставка' button doesn't open a new page w
 Precondition |	The user is on the main page https://kokos.com.ua/
 STR	 | 1. Scroll down to 'Быстрая доставка' button. 2. Check if clicking the button directs you to a new page with the delivery information.
 AR	 |Clicking 'Быстрая доставка' doesn't lead you to the delivery information page.
-ER	 |After clicking the button a new page with the delivery information is opened.
+ER	 |After clicking the button, a new page with the delivery information is opened.
 Attachments	 |https://bit.ly/3viNi58
