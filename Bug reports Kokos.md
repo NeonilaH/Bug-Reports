@@ -30,8 +30,8 @@ Environment |	Windows 11 Home 21H2 2200.795, Microsoft Edge Version 103.0.1264.6
 Description |	After choosing 2 items for comparison, a table with both specification lists does not appear below the photos of the chosen items.
 Precondition |	The user is on the main page https://kokos.com.ua/ua/
 STR |	1. Hover over 'AppleStore' tab in the main menu. 2. Click 'Apple iPhone' in the drop-down menu. 3. Hover over one phone photo and tap 'Порівняти' button. 4. Hover over a different phone photo and tap 'Порівняти' button. 5. On the top navigation bar click 'Порівняння' button. 6. Check if there is a comparison table below the photos in the pop-up window."
-AR |A blank field appears below the pictures of added items.
-ER |A comparison table appears below the pictures of added items.
+AR | A blank field appears below the pictures of added items.
+ER | A comparison table appears below the pictures of added items.
 Attachments |	https://bit.ly/3b4ULOf
 
 ## Bug report 3
@@ -84,6 +84,6 @@ Environment |	Apple iPhone 11 iOS 15.6, Google Chrome 103.0.5060.63"
 Description | 'Быстрая доставка' button doesn't open a new page with the delivery information.
 Precondition |	The user is on the main page https://kokos.com.ua/
 STR	 | 1. Scroll down to 'Быстрая доставка' button. 2. Check if clicking the button directs you to a new page with the delivery information.
-AR	 |Tapping 'Быстрая доставка' button doesn't lead you to the delivery information page.
-ER	 |After tapping the button, a new page with the delivery information is opened.
-Attachments	 |https://bit.ly/3viNi58
+AR	 | Tapping 'Быстрая доставка' button doesn't lead you to the delivery information page.
+ER	 | After tapping the button, a new page with the delivery information is opened.
+Attachments | https://bit.ly/3viNi58
