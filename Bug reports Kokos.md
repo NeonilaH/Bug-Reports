@@ -65,7 +65,7 @@ Priority |	P2
 Environment |	Apple iPhone 11 iOS 15.6, Google Chrome 103.0.5060.63"
 Description | There are no filter ranges in the window that pops up after clicking 'Фільтр' button in Apple catalogue.
 Precondition |	The user is on the main page https://kokos.com.ua/ua/
-STR	 | 1. In 'Популярні категорії' tap Apple Store. 2. Tap 'Фільтр' button. 3. Check if filter ranges are available.
+STR	 | <ol><li>In 'Популярні категорії' tap Apple Store.</li>    <li>Tap 'Фільтр' button.</li>    <li>Check if filter ranges are available.</li></ol>
 AR | 'Немає доступних фільтрів' message is displayed in Filter window.
 ER |There are filter ranges to choose from.
 Attachments |	https://bit.ly/3PZyfVS
