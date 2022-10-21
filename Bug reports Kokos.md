@@ -47,10 +47,7 @@ Priority |	P2
 Environment |	Windows 11 Home 21H2 2200.795, Microsoft Edge Version 103.0.1264.62"
 Description	 | After entering items that are in-stock on the website, both available and unavailable ones are displayed arbitrarily. 
 Precondition  |	The user is on the main page https://kokos.com.ua/ua/
-STR |	<ol>
-    <li>Enter 'Apple iPhone' into the Search field.</li>
-    <li>Check if available items are shown first.</li>
-</ol>
+STR |	<ol>    <li>Enter 'Apple iPhone' into the Search field.</li><li>Check if available items are shown first.</li></ol>
 AR |	Available and unavailable items are shown in random order.
 ER |	In-stock items are shown first, while unavailable ones are displayed subsequently.
 Attachments |	https://bit.ly/3PvjtWV
