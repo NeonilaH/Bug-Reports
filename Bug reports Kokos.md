@@ -14,7 +14,7 @@ Precondition |	The user is on the main page https://kokos.com.ua/ua/
 STR |	<ol><li>Click on 'Мобільні телефони' tab in the main menu.</li><li>Click on 'за назвою' in 'Сортування' in the upper right corner.</li><li>Check if the items are sorted by name.</li></ol>
 AR	 | Mobile phones are sorted in random order.
 ER	 | Mobile phones are sorted by name.
-Attachments	 | https://bit.ly/3BhJO6s
+Attachments	 | https://drive.google.com/file/d/1m8eS1zk7OreI2sMDI6CKqkLfhTt8RxmY/view
 
 ## Bug report 2
 
