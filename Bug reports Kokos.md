@@ -68,7 +68,7 @@ Precondition |	The user is on the main page https://kokos.com.ua/ua/
 STR	 | <ol><li>In 'Популярні категорії' tap Apple Store.</li>    <li>Tap 'Фільтр' button.</li>    <li>Check if filter ranges are available.</li></ol>
 AR | 'Немає доступних фільтрів' message is displayed in Filter window.
 ER |There are filter ranges to choose from.
-Attachments |	https://bit.ly/3PZyfVS
+Attachments |	https://drive.google.com/file/d/1hfKDlf-BN_-edeQ7-AKNpPmC3vmwc6lC/view
 
 ## Bug report 5
 
@@ -86,4 +86,4 @@ Precondition |	The user is on the main page https://kokos.com.ua/
 STR	 | <ol>    <li>Scroll down to 'Быстрая доставка' button.</li>    <li>Check if clicking the button directs you to a new page with the delivery information.</li></ol>
 AR	 | Tapping 'Быстрая доставка' button doesn't lead you to the delivery information page.
 ER	 | After tapping the button, a new page with the delivery information is opened.
-Attachments | https://bit.ly/3viNi58
+Attachments | https://drive.google.com/file/d/1iYqxhOe-0OPTJaF8hP4iQ8HpUN6q-3SE/view
