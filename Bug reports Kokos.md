@@ -50,7 +50,7 @@ Precondition  |	The user is on the main page https://kokos.com.ua/ua/
 STR |	<ol>    <li>Enter 'Apple iPhone' into the Search field.</li><li>Check if available items are shown first.</li></ol>
 AR |	Available and unavailable items are shown in random order.
 ER |	In-stock items are shown first, while unavailable ones are displayed subsequently.
-Attachments |	https://bit.ly/3PvjtWV
+Attachments |	https://drive.google.com/file/d/19Xlb5TDFS8pLv1oC9YtvqvMvY9QlDU4m/view
 
 ## Bug report 4
 
