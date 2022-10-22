@@ -32,7 +32,7 @@ Precondition |	The user is on the main page https://kokos.com.ua/ua/
 STR |	<ol><li>Hover over 'AppleStore' tab in the main menu.</li><li>Click 'Apple iPhone' in the drop-down menu. </li><li>Hover over one phone photo and tap 'Порівняти' button. </li><li>Hover over a different phone photo and tap 'Порівняти' button. </li><li>On the top navigation bar click 'Порівняння' button. </li><li>Check if there is a comparison table below the photos in the pop-up window.</li></ol>
 AR | A blank field appears below the pictures of added items.
 ER | A comparison table appears below the pictures of added items.
-Attachments |	https://bit.ly/3b4ULOf
+Attachments |	https://drive.google.com/file/d/1rVxz1ZwcoP14v-DW1ngD-PUtIMTBLJA_/view
 
 ## Bug report 3
 
